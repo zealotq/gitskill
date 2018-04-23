@@ -4,4 +4,5 @@ dev check
 
 123
 
-check master
+check feature and master
+
